@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## 🌱 I’m currently learning ...
+- Solidity
 - Javascript
 - PHP
 - Developing Apps in Ionic (IOS & Android)
