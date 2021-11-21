@@ -10,7 +10,7 @@
 - 😄 I write custom themes and plugins for Websites using WordPress. 
 - 👯 I’m looking to collaborate on ... Javascript, WordPress.
 - 💬 Ask me about ... Javascript, WordPress
-- 📫 How to reach me: ...[via twitter](https://twitter.com/jeromesenyonga)
+- 📫 How to reach me: ...[via twitter](https://twitter.com/jeromesenyonga4)
 
 <div align = "center">
 
